@@ -1,4 +1,4 @@
 ID,NAME,DESC,TEXTURE,MAX_HP_I,SPEED_F
 0,Man,He is strong man.,graphics/player.png,100,300.f
 1,FireBat,char2,graphics/Helm.png,200,150.f
-2,RedDeath,Very Very Storng,reddeath.png,500,500.f
+2,RedDeath,Very Very Storng,graphics/reddeath.png,500,500.f
