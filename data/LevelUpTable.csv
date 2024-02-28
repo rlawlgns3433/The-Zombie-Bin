@@ -1,4 +1,6 @@
-ID,Name,Desc,Texture,Type,Value
-0,¹°¾à,ÇÃ·¹ÀÌ¾îÀÇ ÃÖ´ëÃ¼·Â 50 Áõ°¡½ÃÄÑÁØ´Ù,graphics/potion1.png,1,50
-1,½Å¹ß,ÇÃ·¹ÀÌ¾îÀÇ ÀÌµ¿¼Óµµ¸¦ 50 Áõ°¡½ÃÄÑÁØ´Ù,graphics/shose.png,2,50
-2,¸ÁÅä,ÇÃ·¹ÀÌ¾îÀÇ µ¥¹ÌÁö¸¦ 30 Áõ°¡½ÃÄÑÁØ´Ù,graphics/cape.png,3,30
+ID,Name,Desc,Texture,Type,Value_F,weight_I
+0,ë¬¼ì•½,ìµœëŒ€ì²´ë ¥ +50,graphics/stat/potion1.png,1,50,10
+1,ì‹ ë°œ,ì´ë™ì†ë„ë¥¼ +50,graphics/stat/shose.png,2,50,10
+2,ë§í† ,ë°ë¯¸ì§€ +30,graphics/stat/cape.png,3,30,10
+3,ì‹¬ì¥,ìµœëŒ€ ì²´ë ¥ +200,graphics/stat/heart.png,1,30,1
+4,ì—ë©”ë„ë“œ,ê²½í—˜ì¹˜ íšë“ëŸ‰ +20%,graphics/stat/emerald.png,4,0.2,5
