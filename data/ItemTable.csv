@@ -1,0 +1,4 @@
+ID,NAME,DESC,TEXTURE,MIN_VAL,MAX_VAL
+0,AMMO,탄 아이템,graphics/ammo_pickup.png,20,40
+1,HEALTH,체력 아이템,graphics/health_pickup.png,10,30
+2,EXP,플레이어가 획득할 수 있는 경험치,ExternalAssets/Ore & Gem/Cut_Emerald.png,5,10
