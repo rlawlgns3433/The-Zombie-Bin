@@ -1,4 +1,4 @@
 ID,NAME,DESC,TEXTURE,MAX HP,MAX SPEED,DAMAGE,ATK INTERVAL
-0,ZOMBIE_BLOATER_NAME,ZOMBIE_BLOATER_DESC,graphics/bloater.png,141,30,70,1
-1,ZOMBIE_CHASER_NAME,ZOMBIE_CHASER_DESC,graphics/chaser.png,69,75,10,0.5
-2,ZOMBIE_CRAWLER_NAME,ZOMBIE_CRAWLER_DESC,graphics/crawler.png,103,200,99,2
+0,Bloater,느리다고 무시하면 큰 코 다친다.,graphics/bloater.png,141,30,70,1
+1,Chaser,이 좀비도 누군가의 가족이었다.,graphics/chaser.png,69,75,10,0.5
+2,Crawler,원샷원킬,graphics/crawler.png,103,200,99,2
