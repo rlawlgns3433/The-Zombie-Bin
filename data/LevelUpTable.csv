@@ -1,0 +1,4 @@
+ID,Name,Desc,Texture,Type,Value
+0,물약,플레이어의 최대체력 50 증가시켜준다,graphics/potion1.png,1,50
+1,신발,플레이어의 이동속도를 50 증가시켜준다,graphics/shose.png,2,50
+2,망토,플레이어의 데미지를 30 증가시켜준다,graphics/cape.png,3,30
