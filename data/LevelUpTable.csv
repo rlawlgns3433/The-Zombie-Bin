@@ -1,8 +1,20 @@
-ID,Name,Desc,EFFECT,Texture,weight_I,MAX_HP_I,SPEED_F,xEXP_F,DMG_I,AKT_INTERVAL_F,RELOAD_INTERVAL_F,MAX_AMMO_I,WEAPON_UP_I
-0,물약,와! 물약 생수보다 싸다!,최대체력 +15,graphics/stat/potion1.png,5,15,0,0,0,0,0,0,0
-1,낚싯대로 건진 신발,한 짝 밖에 없지만 왠지 모르게 신이 난다.,이동속도 +15,graphics/stat/shose.png,10,0,15,0,0,0,0,0,0
-2,허름한 망토,멋있으면 됐다.,데미지 +1,graphics/stat/cape.png,10,0,0,0,1,0,0,0,0
-3,두근대는 심장,도키도키,최대 체력 +50,graphics/stat/heart.png,1,50,0,0,0,0,0,0,0
-4,에메랄드 원석,반짝거리는 에메랄드의 원석이다.,경험치 획득량 +20%,graphics/stat/emerald.png,3,0,0,0.2,0,0,0,0,0
-5,톱니바퀴,혼자서는 아무짝에 쓸모없지만 하나만 없어져도 치명적이다.,무기 레벨 +1,graphics/stat/emerald.png,1,0,0,0,0,0,0,0,1
-6,개조 탄창,아직 한 발 남았다...,탄창 용량 +1,graphics/stat/emerald.png,1,0,0,0,0,0,0,1,0
+ID,Name,Desc,EFFECT,Texture,weight_I,MAX_HP_I,SPEED_F,xEXP_F,DMG_I,AKT_INTERVAL_F,RELOAD_INTERVAL_F,MAX_AMMO_I,WEAPON_UP_I,PROJECTILE_I
+0,물약,와! 물약 생수보다 싸다!,최대 체력 +15,graphics/stat/potion1.png,5,15,0,0,0,0,0,0,0,0
+1,낚싯대로 건진 신발,한 짝 밖에 없지만 왠지 모르게 신이 난다.,이동속도 +15,graphics/stat/shose.png,10,0,15,0,0,0,0,0,0,0
+2,허름한 망토,멋있으면 됐다.,데미지 +1,graphics/stat/cape.png,10,0,0,0,1,0,0,0,0,0
+3,두근대는 심장,도키도키,최대 체력 +50,graphics/stat/heart.png,1,50,0,0,0,0,0,0,0,0
+4,에메랄드 원석,반짝거리는 에메랄드의 원석이다.,경험치 획득량 +60%,graphics/stat/emerald.png,3,0,0,0.6,0,0,0,0,0,0
+5,톱니바퀴,혼자서는 아무짝에 쓸모없지만 하나만 없어져도 치명적이다.,무기 레벨 +1,graphics/stat/gear.png,1,0,0,0,0,0,0,0,1,0
+6,개조 탄창,아직 한 발 남았다...,탄창 용량 +1,graphics/stat/Silver Ingot.png,1,0,0,0,0,0,0,1,0,0
+7,보물지도,이 세상의 전부가 묻혀있다.,최대 체력 +10 / 이동속도 + 10,graphics/stat/Map.png,7,10,10,0,0,0,0,0,0,0
+8,녹슨 철 신발,절그럭.. 절그럭..,최대 체력 +100 / 이동속도 -30,graphics/stat/Iron Boot.png,1,100,-30,0,0,0,0,0,0,0
+9,특제 맥주,발냄새가 난다.,공격속도 +0.1,graphics/stat/Beer.png,5,0,0,0,0,-0.1,0,0,0,0
+10,빈 물병,아무리 기울여봤자 한 방울도 나오지 않는다.,데미지 +5 / 경험치 획득량 -20%,graphics/stat/Empty Bottle.png,1,0,0,-0.2,5,0,0,0,0,0
+11,평범한 깃털,보고 있으면 왠지 빨라질 것만 같다.,공격속도 +0.05 / 재장전 속도 +0.2,graphics/stat/Feather.png,2,0,0,0,0,-0.05,-0.2,0,0,0
+12,클로버 코인,당신도 투자의 귀재가 될 수 있다.,데미지 +1 / 무기 레벨 +1,graphics/stat/Golden Coin.png,1,0,0,0,1,0,0,0,1,0
+13,타오르는 양초,흔들거리는 저 불꽃은 마치 내 마음같구나.,재장전 속도 -1 / 탄창 용량 +20,graphics/stat/Candle.png,4,0,0,0,0,0,1,20,0,0
+14,베스트 셀러 넘버1,dynamic_cast<SceneGame*>(scene)->Find...,경험치 획득량 +500% / 데미지 -10,graphics/stat/Book.png,1,0,0,5,-10,0,0,0,0,0
+15,키보드 젤리 클리너,싸구려 제품이다.,공격속도 -0.5 / 데미지 +3,graphics/stat/Slime Gel.png,3,0,0,0,3,0.5,0,0,0,0
+16,행운의 편지,이 편지는 영국에서 최초로 시작되어 일년에 한 바퀴 돌면서...,모든 스탯 +1,graphics/stat/Envolop.png,1,1,1,0.01,1,-0.1,-0.1,1,1,1
+17,물병,냉장고에서 바로 꺼낸 듯 시원하다.,이동속도 +5 / 탄창 용량 +5 / 무기 레벨 +1,graphics/stat/Water Bottle.png,3,0,5,0,0,0,0,5,1,0
+18,75년산 와인,이게 몇개로 보여?,발사체 개수 +1,graphics/stat/Wine 2.png,1,0,0,0,0,0,0,0,0,1
