@@ -2,3 +2,4 @@ ID,NAME,DESC,TEXTURE,MAX HP,MAX SPEED,DAMAGE,ATK INTERVAL
 0,Chaser,이 좀비도 누군가의 가족이었다.,graphics/chaser.png,69,75,10,0.5
 1,Bloater,느리다고 무시하면 큰 코 다친다.,graphics/bloater.png,141,30,70,1
 2,Crawler,원샷원킬,graphics/crawler.png,103,200,99,2
+3,Timber,팀버맨보스,graphics/timberman.png,3000,200,200,3
