@@ -1,4 +1,4 @@
 ID,NAME,DESC,TEXTURE,MAX HP,MAX SPEED,DAMAGE,ATK INTERVAL
-0,Bloater,ëŠë¦¬ë‹¤ê³  ë¬´ì‹œí•˜ë©´ í° ì½” ë‹¤ì¹œë‹¤.,graphics/bloater.png,141,30,70,1
-1,Chaser,ì´ ì¢€ë¹„ë„ ëˆ„êµ°ê°€ì˜ ê°€ì¡±ì´ì—ˆë‹¤.,graphics/chaser.png,69,75,10,0.5
-2,Crawler,ì›ìƒ·ì›í‚¬,graphics/crawler.png,103,200,99,2
+0,Chaser,ÀÌ Á»ºñµµ ´©±º°¡ÀÇ °¡Á·ÀÌ¾ú´Ù.,graphics/chaser.png,69,75,10,0.5
+1,Bloater,´À¸®´Ù°í ¹«½ÃÇÏ¸é Å« ÄÚ ´ÙÄ£´Ù.,graphics/bloater.png,141,30,70,1
+2,Crawler,¿ø¼¦¿øÅ³,graphics/crawler.png,103,200,99,2
