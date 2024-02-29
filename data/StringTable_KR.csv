@@ -11,3 +11,6 @@ ZOMBIE_CHASER_PATH,d
 ZOMBIE_CRAWLER_NAME,d
 ZOMBIE_CRAWLER_DESC,d
 ZOMBIE_CRAWLER_PATH,d
+COMFIRM_IMG,graphics/confirmation_image.png
+CHECK_BOX,graphics/checkbox.png
+CHECK_BOX_GREEN,graphics/checkbox_green.png
