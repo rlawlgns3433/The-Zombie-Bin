@@ -14,3 +14,5 @@ ZOMBIE_CRAWLER_PATH,d
 COMFIRM_IMG,graphics/confirmation_image.png
 CHECK_BOX,graphics/checkbox.png
 CHECK_BOX_GREEN,graphics/checkbox_green.png
+ZOMBIE_BOSS,graphics/boss/boss.png
+ZOMBIE_BOSS_RANGLESKILL,graphics/boss/rangeskill.png
