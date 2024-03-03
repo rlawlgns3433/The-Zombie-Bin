@@ -16,3 +16,5 @@ CHECK_BOX,graphics/checkbox.png
 CHECK_BOX_GREEN,graphics/checkbox_green.png
 ZOMBIE_BOSS,graphics/boss/boss.png
 ZOMBIE_BOSS_RANGLESKILL,graphics/boss/rangeskill.png
+ZOMBIE_BOSS_BINDINGSKILL,graphics/boss/bindingskill.png
+FONT_1,fonts/BMHANNAPro.ttf
